@@ -1,5 +1,5 @@
 # Orderly SDK
-Orderly SDK is a complete library to interact with Orderly contracts and rest api. You can use it in the browser. Orderly contracts are built on NEAR network.
+[Orderly SDK](https://sdk.orderly.network/docs/hooks/overview) is a complete library to interact with Orderly contracts and rest api. You can use it in the browser. Orderly contracts are built on NEAR network.
 
 ## Typescript
 Library is written fully in Typescript, so no additional types installation is needed.
